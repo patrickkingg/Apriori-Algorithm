@@ -17,5 +17,5 @@ Python3 Apriori.py (name of dataset to test) (minimum support count) (output fil
 
 ## Authors
 
-* **Patrick WAng** - *Initial work* - [Apriori Algorithm](https://github.com/patrickkingg/Apriori-Algorithm)
+* **Patrick Wang** - *Initial work* - [Apriori Algorithm](https://github.com/patrickkingg/Apriori-Algorithm)
 
