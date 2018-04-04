@@ -12,7 +12,7 @@ Python 3.6
 
 To run the algorithm on any dataset, please type the following command into your terminal window
 ```
-Python3 Apriori.py (name of dataset to test) (minimum support count) (output file name)
+python3 Apriori.py (name of dataset to test) (minimum support count) (output file name)
 ```
 
 ## Authors
